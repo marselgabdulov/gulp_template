@@ -1,0 +1,9 @@
+.title {
+  text-decoration: uppercase;
+}
+
+@media (max-width: 700px) {
+  .title {
+    color: yellow;
+  }
+}
